@@ -14,7 +14,7 @@ public class Personality {
 	public Personality(String name) {
 		myName = name;
 	}
-	
+	 
 	/**
 	
 	* Construct a default Personality, identifier
